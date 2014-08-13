@@ -1,7 +1,7 @@
 Kata-FizzBuzz
 =============
 
-Repositorio de la Kata en Montessori
+Repositorio de la Kata usada como iniciación al TDD
 
 
 Imagínate el siguiente escenario. Tienes 11 años y en los últimos 5 minutos del final de la lección, tu profesor de matemáticas decide hacer la clase mas divertida, introduciendo un juego. El explica que irá señalando a cada compañero de clase en orden y preguntándole el siguiente número de la secuencia, comenzando por el número uno. La parte divertida es que, si el número es divisible por 3, tienes que decir "Fizz" en vez del número. Y si es divisible por 5, debes decir "Buzz". 
